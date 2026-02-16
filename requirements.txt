@@ -1,0 +1,5 @@
+mne
+numpy
+scikit-learn
+tqdm
+jupyter
